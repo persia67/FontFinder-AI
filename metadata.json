@@ -1,0 +1,5 @@
+{
+  "name": "FontFinder AI",
+  "description": "AI-powered font identification and character mapping tool. Upload an image to detect fonts, download them, and copy individual characters.",
+  "requestFramePermissions": []
+}
